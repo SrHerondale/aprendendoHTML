@@ -1,7 +1,32 @@
 body{
 
-	background-color: blue;
-	
+	background-color: #A020F0;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-family: 'Dancing Script', cursive;
+}
+
+h1{
+text-align: center;
+color: 	#E6E6FA;
+}
+
+h2,h3{
+color: #B0E0E6;
+
+}	
+
+p{font: 20%px;
+font-size: 1.3em;
+text-indent: 3em;
+
+}
+figure {
+	text-align: center;
+
+}
+img{
+	width: 60%
 }
 
 
